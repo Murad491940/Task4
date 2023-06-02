@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\MathHelper\MathHelper\bin\Debug\net7.0\MathHelper.exe
+C:\Users\User\source\repos\MathHelper\MathHelper\bin\Debug\net7.0\MathHelper.deps.json
+C:\Users\User\source\repos\MathHelper\MathHelper\bin\Debug\net7.0\MathHelper.runtimeconfig.json
+C:\Users\User\source\repos\MathHelper\MathHelper\bin\Debug\net7.0\MathHelper.dll
+C:\Users\User\source\repos\MathHelper\MathHelper\bin\Debug\net7.0\MathHelper.pdb
+C:\Users\User\source\repos\MathHelper\MathHelper\obj\Debug\net7.0\MathHelper.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MathHelper\MathHelper\obj\Debug\net7.0\MathHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MathHelper\MathHelper\obj\Debug\net7.0\MathHelper.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MathHelper\MathHelper\obj\Debug\net7.0\MathHelper.AssemblyInfo.cs
+C:\Users\User\source\repos\MathHelper\MathHelper\obj\Debug\net7.0\MathHelper.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MathHelper\MathHelper\obj\Debug\net7.0\MathHelper.dll
+C:\Users\User\source\repos\MathHelper\MathHelper\obj\Debug\net7.0\refint\MathHelper.dll
+C:\Users\User\source\repos\MathHelper\MathHelper\obj\Debug\net7.0\MathHelper.pdb
+C:\Users\User\source\repos\MathHelper\MathHelper\obj\Debug\net7.0\MathHelper.genruntimeconfig.cache
+C:\Users\User\source\repos\MathHelper\MathHelper\obj\Debug\net7.0\ref\MathHelper.dll
